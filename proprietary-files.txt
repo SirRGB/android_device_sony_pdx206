@@ -631,7 +631,7 @@ vendor/camera/version.dat
 vendor/lib64/camera/com.sony.sensormodule.cervin_imx363.bin
 vendor/lib64/camera/com.sony.sensormodule.cervin_imx557.bin
 vendor/lib64/camera/com.sony.sensormodule.cervin_s5k3t2.bin
-vendor/lib64/libsomc_thermal.so
+-vendor/lib64/libsomc_thermal.so
 
 # Charger
 vendor/etc/chg-pwr-service.cfg
@@ -653,7 +653,7 @@ oem/etc/thermal-engine.conf:vendor/etc/thermal-engine.conf
 vendor/firmware/touch_module_id_0x94.img
 
 # Wifi firmware
-vendor/bin/cnss-daemon
+-vendor/bin/cnss-daemon
 vendor/etc/wifi/bdwlan.e16
 vendor/etc/wifi/bdwlan.e17
 vendor/etc/wifi/bdwlan.elf
